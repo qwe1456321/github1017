@@ -6,3 +6,7 @@ p{
     color: rgb(39, 29, 66);
     font-size: 50px;
 }
+h1{
+    color: red;
+    margin: 500px;
+}
